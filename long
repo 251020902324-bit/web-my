@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thế Giới Điện Ảnh</title>
+</head>
+
+<body>
+    <header>
+        <h1>Thế Giới Điện Ảnh</h1>
+        <p>Khám phá những bộ phim nổi tiếng trên thế giới.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Top 3 bộ phim nổi tiếng</h2>
+
+            <ul>
+                <p>Avengers: Endgame</p>
+                <p>Interstellar</p>
+                <p>Spirited Away</p>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Hình ảnh phim</h2>
+
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg"
+                     alt="Poster phim Avengers Endgame với các siêu anh hùng Marvel"
+                     width="250">
+                <figcaption>Avengers: Endgame</figcaption>
+            </figure>
+
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+                     alt="Poster phim Interstellar với phi hành gia đứng trên hành tinh băng"
+                     width="250">
+                <figcaption>Interstellar</figcaption>
+            </figure>
+
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png"
+                     alt="Poster phim hoạt hình Spirited Away của Studio Ghibli"
+                     width="250">
+                <figcaption>Spirited Away</figcaption>
+            </figure>
+        </section>
+
+        <section>
+            <h2>Tìm hiểu thêm</h2>
+
+            <p>
+                Truy cập trang web
+                <a href="https://www.netflix.com/vn/" target="_blank">
+                    Netflix
+                </a>
+                để xem thêm thông tin về các bộ phim.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Tuấn Long</p>
+    </footer>
+</body>
+
+</html>
